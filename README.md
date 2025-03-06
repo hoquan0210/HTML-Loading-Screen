@@ -48,6 +48,6 @@ This project is licensed under the MIT License.
 
 For any questions or suggestions, feel free to reach out!
 
-- GitHub: [Alli Ho](https://github.com/hoquan0210))
+- GitHub: ([Alli Ho](https://github.com/hoquan0210))
 - Email: hoquanyq239@gmail.com
 
