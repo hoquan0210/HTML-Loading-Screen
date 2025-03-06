@@ -13,7 +13,7 @@ A simple and customizable loading screen built using HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/HTML-Loading-Screen.git
+   git clone https://github.com/hoquan0210/HTML-Loading-Screen
    ```
 2. Navigate to the project directory:
    ```sh
